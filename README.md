@@ -151,7 +151,7 @@ Through this project, I gained hands-on experience in:
 
 ## 👨‍💻 Author
 
-**Akhil Kraleti**
+**Akhil Tej Sarma Kraleti**
 
 Computer Science Undergraduate | Machine Learning Enthusiast
 
