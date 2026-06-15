@@ -149,14 +149,6 @@ Through this project, I gained hands-on experience in:
 - Post-Pruning techniques
 - Model evaluation and interpretation
 
-## 🔮 Future Improvements
-
-- Hyperparameter tuning using GridSearchCV
-- Random Forest implementation
-- Cross-validation
-- Deployment using Flask/Streamlit
-- Comparison with other classification algorithms
-
 ## 👨‍💻 Author
 
 **Akhil Kraleti**
